@@ -1,1 +1,1 @@
-# JEST1
+# Snake Game
